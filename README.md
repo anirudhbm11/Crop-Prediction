@@ -12,5 +12,3 @@ Currently only six crops are supported.
 * Tomato
 * Wheat 
 * Chile
-
-[Click here](http://aniagriculture.herokuapp.com/) for the project demo which is hosted on Heroku Platform.
